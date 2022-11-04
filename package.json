@@ -1,0 +1,23 @@
+{
+  "scripts": {
+    "generate:qr": "node src/qr.js"
+  },
+  "dependencies": {
+    "awesome-qr": "^2.1.5-rc.0"
+  },
+  "name": "qr-generator",
+  "version": "1.0.0",
+  "description": "Generate qr code for whatever you need",
+  "main": "qr.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/juani-canete-10/qr-generator.git"
+  },
+  "author": "Juani",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/juani-canete-10/qr-generator/issues"
+  },
+  "homepage": "https://github.com/juani-canete-10/qr-generator#readme"
+}
