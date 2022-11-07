@@ -2,9 +2,8 @@
 Generate QR code for whatever you need
 
 ### Usage:
-* clone the repo
-* npm install
-* Replace the text property for the QR code in qr.js
-* npm run generate:qr
-* It will generate a qr code in the output folder
-* done!
+* Clone the repo
+* Run the following script: `npm install` to download all the necessary libraries
+* Replace the text property for the desired QR message in the `qr.js` file
+* Run the following script: `npm run generate:qr` to generate the QR
+* Done!
