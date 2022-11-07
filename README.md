@@ -1,5 +1,5 @@
 # qr-generator
-Generate QR code for whatever you need
+Generate QR code for whatever you need, this project uses https://www.npmjs.com/package/awesome-qr.
 
 ### Usage:
 * Clone the repo
@@ -7,3 +7,4 @@ Generate QR code for whatever you need
 * Replace the text property for the desired QR message in the `qr.js` file
 * Run the following script: `npm run generate:qr` to generate the QR
 * Done!
+
