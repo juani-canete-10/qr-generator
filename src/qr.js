@@ -13,7 +13,7 @@
   }).draw();
 
   if(!fs.existsSync(outputDir)) {
-    console.info(`>>>>> There is not '${outputDir}' folder, creating directory...`);
+    console.info(`>>>>> There is no '${outputDir}' folder, creating directory...`);
     await new Promise(resolve => setTimeout(resolve, delay));
     try {
       fs.mkdirSync(outputDir);
